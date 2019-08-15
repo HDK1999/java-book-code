@@ -13,4 +13,4 @@
 
 * git clone本代码库到本地目录
 
-* Eclipse下File -> Open Projects from File System ...打开某章的代码目录 
+* Eclipse下“File -> Open Projects from File System ...”打开某章的代码目录 
