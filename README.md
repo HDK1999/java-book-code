@@ -15,6 +15,6 @@
 
 * git clone本代码库到本地目录
 
-* 设置Eclipse的workspace路径为本目录
+* 设置Eclipse的workspace路径为本代码库目录
 
 * Eclipse下“File -> Open Projects from File System ...”或“File -> Import -> General -> Existing Projects into Workspace”打开某章的代码目录 
