@@ -9,8 +9,12 @@
 
 * /supplementary : 《高级语言程序设计》,《Java程序设计》课程补充代码（可能取自其他公开代码）
 
+* /slides : 2019年度《高级语言程序设计》课件
+
 ## 使用说明
 
 * git clone本代码库到本地目录
 
-* Eclipse下“File -> Open Projects from File System ...”打开某章的代码目录 
+* 设置Eclipse的workspace路径为本目录
+
+* Eclipse下“File -> Open Projects from File System ...”或“File -> Import -> General -> Existing Projects into Workspace”打开某章的代码目录 
