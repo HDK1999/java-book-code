@@ -8,7 +8,7 @@ public class TestListIterator{
 		String[] strs=sentence.split(" ");
 		List<String> list=new ArrayList<String>( Arrays.asList(strs) );
 		
-		ListIterator li=list.listIterator();
+		ListIterator<String> li=list.listIterator();
 		while(li.hasNext()){
 			System.out.print(li.next()+"_");
 		}
